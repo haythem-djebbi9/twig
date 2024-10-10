@@ -11,6 +11,8 @@
         "symfony/dotenv": "7.1.*",
         "symfony/flex": "^2",
         "symfony/framework-bundle": "7.1.*",
+        "symfony/maker-bundle": "*",
+        "symfony/orm-pack": "*",
         "symfony/runtime": "7.1.*",
         "symfony/webapp-pack": "*",
         "symfony/yaml": "7.1.*"

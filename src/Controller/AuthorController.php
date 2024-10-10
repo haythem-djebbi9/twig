@@ -21,7 +21,7 @@ class AuthorController extends AbstractController
 {
     $authors = [
         1 => ['id' => 1, 'picture' => '/images/victor hugo.jpeg', 'username' => 'Victor Hugo', 'email' => 'victor.hugo@gmail.com', 'nb_books' => 100],
-        2 => ['id' => 2, 'picture' => '/images/williamshekspear.jpeg', 'username' => 'William Shakespeare', 'email' => 'william.shakespeare@gmail.com', 'nb_books' => 200],
+        2 => ['id' => 2, 'picture' => '/images/william shekspear.jpeg', 'username' => 'William Shakespeare', 'email' => 'william.shakespeare@gmail.com', 'nb_books' => 200],
         3 => ['id' => 3, 'picture' => '/images/taha hussein.jpge', 'username' => 'Taha Hussein', 'email' => 'taha.hussein@gmail.com', 'nb_books' => 300],
     ];
 
